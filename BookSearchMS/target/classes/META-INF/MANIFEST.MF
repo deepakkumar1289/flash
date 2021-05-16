@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: MyBookSearchMS
+Implementation-Version: 1.0
+Built-By: Deepak
+Implementation-Vendor-Id: com.coursecube.bookprice
+Build-Jdk: 1.8.0_71
+Implementation-URL: https://www.coursecube.com
+Created-By: Maven Integration for Eclipse
+
